@@ -1,0 +1,9 @@
+{
+  "MHEMessageType": [
+    {
+      "MHETime": "$utcTime",
+      "MHEJournalDateTime": "$estTime",
+      "MessageId": "$messageId"
+    }
+  ]
+}
